@@ -1,0 +1,30 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.076302 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.754143 ms (FindLiveObjects: 0.010239 ms CreateObjectMapping: 0.007830 ms MarkObjects: 0.067463 ms  DeleteObjects: 0.263528 ms)
+
+Platform assembly: C:\Users\Deretheni\Dropbox\Spring_2015\Unity Game Dev\Homework Projects\Final_Project\bin\windows_x86\Tether_Data\Managed\Boo.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported

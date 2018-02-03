@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 406288bd72da56d44b3b36173e64fc71
+timeCreated: 1430502513
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crosshairImage: {fileID: 2800000, guid: 1e5d63e09f05eaa43a17b9b97d4ac978, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
